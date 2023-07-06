@@ -1,18 +1,18 @@
-## Code Challenge 3 - Flatdango
-This repository contains my submission for the school code challenge week 3.
-This is a Movie Theater that allows users to buy tickets to available movies.
+## Code Challenge 2 - Flataculties Web App
+This repository contains my submission for the school code challenge week 2 
+This mini web app allows users to vote for their favorite cute animals.
 
 ## Table of Content
-- [Description](https://github.com/Mwasigwa2/codechallengethree#code-challenge-description)
-- [Installation Requirements](https://github.com/Mwasigwa2/codechallengethree#installation-requirements)
-- [Installation Process](https://github.com/Mwasigwa2/codechallengethree#installation-process)
-- [Technologies Used](https://github.com/Mwasigwa2/codechallengethree#technologies-used)
-- [Project Structure](https://github.com/Mwasigwa2/codechallengethree#project-structure)
-- [License](https://github.com/Mwasigwa2/codechallengethree#license)
-- [Authors Info](https://github.com/Mwasigwa2/codechallengethree#author-info)
+- [Description](https://github.com/Mwasigwa2/CodeChallengeTwo#code-challenge-description)
+- [Installation Requirements](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-requirements)
+- [Installation Process](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-process)
+- [Technology Used](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-process)
+- [Project Structure](https://github.com/Mwasigwa2/CodeChallengeTwo#project-structure)
+- [License](https://github.com/Mwasigwa2/CodeChallengeTwo#license)
+- [Authors Info](https://github.com/Mwasigwa2/CodeChallengeTwo#author-info)
 
 ## Code Challenge Description
-The challenge required me to demonstrate my knowledge of html5, css, javascript, DOM manipulation and Events through building a Movie Theater Ticketing app
+The challenge required me to demonstrate my knowledge of html5, css, javascript, DOM manipulation and Events through building an animal voting app
 
 ## Installation Requirements 
 - Either a computer, phone, tablet, or an Ipad
@@ -23,12 +23,12 @@ The challenge required me to demonstrate my knowledge of html5, css, javascript,
 **git clone the repository to your local machine using the command**
 
 ```
-$ git@github.com:Mwasigwa2/codechallengethree.git
+$ git@github.com:Mwasigwa2/CodeChallengeTwo.git
 ```
 
 **Navigate to the project using the command cd**
 ```
-$ 'cd codechallengethree'
+$ 'cd CodeChallengetwo'
 ```
 **Install json server tool with the following command**
 ```
@@ -55,15 +55,17 @@ This challenge was mainly based on
 - CSS
 - JSON
 - [Netlify](https://www.netlify.com/)
+- [Imgur](https://imgur.com/)
   
 ## Project Structure
   The project contains the following files:
   - index.html
   - style.css
   - db json
+  - settings.json
+  - package.lock.json
   - package.json
   - README.md
-    
 ## License
 MIT License
 Copyright (c) [2023] [Gathirimu Mwasigwa]
@@ -90,3 +92,5 @@ SOFTWARE.
 Gathirimu Mwasigwa
 ## Contact Info
 Email: [gathirimu.mwasigwa@student.moringaschool.com]
+
+[**Navigate back to top**](https://github.com/Mwasigwa2/CodeChallengeTwo)
