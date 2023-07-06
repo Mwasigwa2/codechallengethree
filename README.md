@@ -1,18 +1,18 @@
-## Code Challenge 2 - Flataculties Web App
-This repository contains my submission for the school code challenge week 2 
-This mini web app allows users to vote for their favorite cute animals.
+## Code Challenge 2 - Flatdango
+This repository contains my submission for the school code challenge week 3.
+This is a Movie Theater that allows users to buy tickets to available movies.
 
 ## Table of Content
 - [Description](https://github.com/Mwasigwa2/CodeChallengeTwo#code-challenge-description)
 - [Installation Requirements](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-requirements)
 - [Installation Process](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-process)
-- [Technology Used](https://github.com/Mwasigwa2/CodeChallengeTwo#installation-process)
+- [Technology Used](https://github.com/Mwasigwa2/CodeChallengeTwo#author-info)
 - [Project Structure](https://github.com/Mwasigwa2/CodeChallengeTwo#project-structure)
 - [License](https://github.com/Mwasigwa2/CodeChallengeTwo#license)
 - [Authors Info](https://github.com/Mwasigwa2/CodeChallengeTwo#author-info)
 
 ## Code Challenge Description
-The challenge required me to demonstrate my knowledge of html5, css, javascript, DOM manipulation and Events through building an animal voting app
+The challenge required me to demonstrate my knowledge of html5, css, javascript, DOM manipulation and Events through building a  MOvie Theater Ticketing app
 
 ## Installation Requirements 
 - Either a computer, phone, tablet, or an Ipad
