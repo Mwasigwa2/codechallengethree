@@ -7,7 +7,7 @@ This is a Movie Theater that allows users to buy tickets to available movies.
 - [Installation Requirements](https://github.com/Mwasigwa2/codechallengethree#installation-requirements)
 - [Installation Process](https://github.com/Mwasigwa2/codechallengethree#installation-process)
 - [Technologies Used](https://github.com/Mwasigwa2/codechallengethree#technologies-used)
-- [Project Structure](https://github.com/Mwasigwa2/CodeChallengeTwo#project-structure)
+- [Project Structure](https://github.com/Mwasigwa2/codechallengethree#project-structure)
 - [License](https://github.com/Mwasigwa2/codechallengethree#license)
 - [Authors Info](https://github.com/Mwasigwa2/codechallengethree#author-info)
 
