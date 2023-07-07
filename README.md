@@ -92,5 +92,3 @@ SOFTWARE.
 Gathirimu Mwasigwa
 ## Contact Info
 Email: [gathirimu.mwasigwa@student.moringaschool.com]
-
-[**Navigate back to top**](https://github.com/Mwasigwa2/CodeChallengeTwo)
