@@ -1,4 +1,4 @@
-## Code Challenge 2 - Flatdango
+## Code Challenge 3 - Flatdango
 This repository contains my submission for the school code challenge week 3.
 This is a Movie Theater that allows users to buy tickets to available movies.
 
