@@ -8,9 +8,9 @@ document.addEventListener('DOMContentLoaded', function() {
   const filmsList = document.getElementById('films');
   const movieAvailableTickets = document.getElementById('movie-available-tickets');
 
-  let selectedFilm; // to declare selectedFilm variable
+  let selectedFilm; 
 
-  // Fetch movie data from JSON file
+  // Fetching  movie data from JSON file
   fetch('http://localhost:3000/films')
     .then(response => response.json())
     .then(data => {
