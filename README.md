@@ -23,12 +23,12 @@ The challenge required me to demonstrate my knowledge of html5, css, javascript,
 **git clone the repository to your local machine using the command**
 
 ```
-$ git@github.com:Mwasigwa2/CodeChallengeTwo.git
+$ git@github.com:Mwasigwa2/codechallengethree.git
 ```
 
 **Navigate to the project using the command cd**
 ```
-$ 'cd CodeChallengetwo'
+$ 'cd codechallengethree'
 ```
 **Install json server tool with the following command**
 ```
